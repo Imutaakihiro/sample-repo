@@ -1,0 +1,2 @@
+新しいファイル
+no-fast-forward
