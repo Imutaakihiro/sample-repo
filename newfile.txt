@@ -1,2 +1,1 @@
-新しいファイル
-no-fast-forward
+これはrebaseの練習です！
