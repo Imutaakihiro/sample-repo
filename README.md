@@ -1,6 +1,5 @@
 # sample-repo
 
-git練習用（mainブランチで変更）
-更新
+git練習用（conflictブランチで変更）
 
 stash練習
