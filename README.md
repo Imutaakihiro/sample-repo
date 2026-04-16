@@ -5,4 +5,5 @@ git練習用
 
 conflict-remote上でコンフリクトを起こしまくるぞ！
 
-rebase の練習だよ！
+rebase の練習だよ!
+次はrebaesをコンフリクトさせるよ！
